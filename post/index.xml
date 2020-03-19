@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AjayXeen - 小π哥的自留地儿！</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on AjayXeen - 小π哥的自留地儿！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Feb 2020 20:30:04 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>彩页印刷与设计的基本知识</title>
+      <link>http://localhost:1313/post/caiyeyinshua/</link>
+      <pubDate>Thu, 06 Feb 2020 20:30:04 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/caiyeyinshua/</guid>
+      <description>&lt;p&gt;彩页，用单张或较少的页面说明广告的主题。被广泛使用在产品宣传、促销广告、企业介绍、展会资料、邮寄广告等方面。特点是成本低，主题突出，视觉效果好，广告信息覆盖面大。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>《道德经》全文</title>
+      <link>http://localhost:1313/post/daodejing/</link>
+      <pubDate>Wed, 05 Feb 2020 20:32:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/daodejing/</guid>
+      <description>&lt;h1 id=&#34;道经&#34;&gt;道经&lt;/h1&gt;
+&lt;h2 id=&#34;第一章&#34;&gt;第一章&lt;/h2&gt;
+&lt;p&gt;道，可道也，非恒道也。名，可名也，非恒名也。无名，万物之始也；有名，万物之母也。故恒无欲也，以观其妙；恒有欲也，以观其所徼。两者同出，异名同谓，玄之又玄，众妙之门。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
